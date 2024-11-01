@@ -1,0 +1,6 @@
+.touching-comments-chosen{display:none;}
+.touching-comments-button{display:block;float:right;clear:both;margin:10px 0 5px 0;}
+.touching-comments-button span svg{width:18px;height:18px;}
+.touching-comments-button br{display:none;}
+.touching-comments-button a{outline:none;}
+.touching-comments-button a:focus{box-shadow:none;outline:none;}

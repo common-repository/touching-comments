@@ -1,0 +1,16 @@
+.touching-comments-button{display:block;float:right;clear:both;margin:10px 0 5px 0;}
+.touching-comments-button span svg{width:18px;height:18px;}
+.touching-comments-button br{display:none;}
+.touching-comments-button a{outline:none;}
+.touching-comments-list li{list-style:none;border-bottom:1px solid #ddd;margin-bottom:10px;}
+.touching-comments-list .touching-comments-button,.touching-comments-list .touching-comments-chosen{display:none;}
+.touching-comments-list img.avatar{vertical-align:middle;}
+.touching-comments-list .comment-name{margin-left:2px;}
+.touching-comments-list .comment-content p{text-indent:0;}
+.touching-comments-list .edit-link{float:right;}
+.touching-comments-list .comment-metadata{opacity: 0.8;}
+.touching-comments-picture{margin-bottom:15px;}
+.touching-comments-title{display:block;line-height:30px;height:30px;margin-bottom:15px;}
+.touching-comments-picture img{width:100%;vertical-align: middle;}
+.touching-comments-chosen{background:#f9f1be;padding:3px 8px;margin:5px 0;border-radius:8px 0;font-size:14px;display:inline-block;}
+.touching-comments-chosen span{color:#76600a;}
